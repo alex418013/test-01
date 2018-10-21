@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Práctica 6 texto</h1>
+        <nav>
+            <a href="https://www.cervantes.es/bibliotecas_documentacion_espanol/biografias/pekin_antonio_machado.htm">Biografía Antonio Machado</a>
+            <a href="https://es.wikipedia.org/wiki/Antonio_Machado">Antonio Machado en Wikipedia</a>
+        </nav>
+        <main>
+            <section>
+                <article>
+            <h3>Amanecer en Valencia. Antonio Machado</h3>
+           <p>
+            Estas rachas de marzo, en los desvanes <br>
+            --hacia la mar-- del tiempo; la paloma <br>
+            de pluma tomasol, los tulipanes <br>
+            gigantes del jardín, y el sol que asoma, <br>
+            a iluminar la tierra valentina... <br>
+            ¡Hervor de leche y plata, añil y espuma, <br>
+            y velas blancas en la mar latina! <br>
+            Valencia de fecundas primaveras, <br>
+            de floridas almunias y arrozales, <br>
+            feliz quiero cantarte, como eras <br>
+            domando a un ancho río en tus canales, <br>
+            al dios marino con tus albuferas,<br>
+            al centro de amor con tus rosales.
+            </p>
+                </article>
+            </section>
+            <img src="img/machado.jpg">
+            <hr>
+            <section>
+                <p>
+                    La Ciudad de las ciencias de Valencia incluye.
+                </p>
+                <p>
+                    1. Palau de les arts <br>
+                    2. Hemisféric. <br>
+                    3. Umbracle. <br>
+                    4. Museo de las Ciencias. <br>
+                    5. Oceanográfic. <br>
+                </p>
+                <p>
+                    <iframe src="https://www.cac.es/es/home.html" frameborder="0" width="50%"></iframe> <iframe src="https://goo.gl/maps/XokWtF8cF2y" frameborder="0" width="40%"></iframe>
+                </p>
+                <p>
+                    <iframe src="img/folleto.pdf" height="315" frameborder="0" width="20%"></iframe>
+                    <iframe src="img/hemisferic.pdf" height="315" frameborder="0" width="20%"></iframe>   
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/umyKv8a2AmU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </p>
+            </section>
+            <hr>
+        </main>
+        <footer>
+            <address>
+                Autor: Alejandro Sánchez <br>
+                Correo: alejandro.sanchez.folgado@gmail.com
+            </address>
+        </footer>
+</body>
+</html>
